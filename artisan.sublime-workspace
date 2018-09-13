@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"st",
+				"statement"
+			],
+			[
+				"V",
+				"VALUES"
+			],
+			[
+				"l",
+				"lastname"
+			],
+			[
+				"cona",
+				"contacts"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"STR",
+				"String"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/khalidhaji/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/khalidhaji/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/resources/views/student/create.blade.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/resources/views/layout.blade.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/database/migrations/2018_09_12_123850_create_students_table.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/config/database.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/.env",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/testapp/resources/views/layout.html",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/mywebapp/app/Http/Controllers/inputcontroller.php",
+		"/Users/khalidhaji/Desktop/2014_10_12_000000_create_users_table.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/mywebapp/resources/views/homepage.blade.php",
+		"/Users/khalidhaji/Documents/htdocs/laraveltest/mywebapp/resources/views/home.blade.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Users/khalidhaji/Desktop/laravel/resources/views/homepage.blade.php",
+		"/Users/khalidhaji/Desktop/laravel/resources/views/welcome.blade.php",
+		"/Users/khalidhaji/Desktop/laravel/webpack.mix.js",
+		"/Users/khalidhaji/Desktop/laravel/readme.md",
+		"/Users/khalidhaji/blog/public/index.php",
+		"/Users/khalidhaji/composer-setup.php",
+		"/Users/khalidhaji/Desktop/demo.html",
+		"/Users/khalidhaji/Downloads/solution-code-student-tracker-add-student/WebContent/list-students.jsp",
+		"/Users/khalidhaji/Downloads/jQuery-AJAX-Web-Application/src/main/java/com/journaldev/servlets/GetUserServlet.java",
+		"/Users/khalidhaji/Documents/centos/html/index.html",
+		"/Users/khalidhaji/Documents/centos/Vagrantfile",
+		"/Users/khalidhaji/Documents/my-project/Vagrantfile",
+		"/Users/khalidhaji/Documents/centos/index.html",
+		"/Users/khalidhaji/AndroidStudioProjects/funfacts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+		"/Users/khalidhaji/Downloads/results.sql",
+		"/Users/khalidhaji/Desktop/Training Material/JdbcMain.java",
+		"/Users/khalidhaji/Documents/GitHub/javatrainingtask1/runprogram.sh"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "artisan.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
